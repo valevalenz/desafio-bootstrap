@@ -1,0 +1,47 @@
+
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+
+h5 {
+  color: #212529;
+  font-weight: 300;
+}
+/* correccion */
+.img-sm {
+  width: 5rem;
+}
+.img-md {
+  width: 10rem;
+}
+.text-sm {
+  font-size: small;
+}
+.vacio {
+  height: 1.3rem;
+}
+.objet-fit {
+  width: 100%;
+  height: 60%;
+  /* Esta es la propiedad que re encuadra la foto */
+  object-fit: cover;
+}
+.h-x {
+  height: 85% !important;
+}
+.font-weight-medium {
+  font-weight: 500;
+}
+
+
+/* Boostrap viene con el borderbox y los resets listos */
+
+
+
+
+
+
